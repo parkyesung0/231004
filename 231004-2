@@ -1,0 +1,60 @@
+ Console.WriteLine("1~3까지의 숫자를 입력하세요:");
+ //Console.Write("1, 2, 3 \n");
+ string input = Console.ReadLine();
+ int input_num = Convert.ToInt32(input);
+
+ switch (input_num)
+ {
+     case 1:
+         {
+             Console.WriteLine("오늘은 운세가 좋은 날 입니다.");
+             break;
+         }
+     case 2:
+         {
+             Console.WriteLine("오늘은 운수대통 입니다.");
+             break;
+         }
+     case 3:
+         {
+             Console.WriteLine("오늘의 운세는 보통입니다.");
+             break;
+         }
+     default:
+         {
+             Console.WriteLine("잘못 입력하셨습니다.");
+             break;
+         }
+ }
+
+console.WriteLine
+bool bool_1 = int.TryParse(Console.ReadLine());
+
+if (bool_1 && bool_2 && bool3)
+{
+switch (oper)
+{
+      case "+"
+      {
+          console.WriteLine($"{num1}+{num2}={num1}+{num2}");
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
